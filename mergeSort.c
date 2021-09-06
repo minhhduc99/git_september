@@ -1,6 +1,6 @@
 // update file
 // third update
-// last update
+// new update
 #include <stdio.h>
 #include <stdlib.h>
 
