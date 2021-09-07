@@ -1,0 +1,20 @@
+- git config 
+- git init (to create git repository local)
+- git status
+- staging area
+- git add 
+- git commit
+- git log
+- source control
+- create git repository on server (github)
+- connect git repo local and git repo on server
++) git remote add origin <repo server link>
++) git branch -M <name branch>
++) git push -u origin <name branch>
+- git branch
+- git checkout
+- git merge
+- git checkout [hash]
+- git push
+- git pull
+- .gitignore
