@@ -45,7 +45,7 @@ void swap(int* first_value, int* second_value)
 void quickSort(int array[], int low, int high)
 {
     // select middle element as pivot
-    int pivot = (low + high) / 2;
+    int pivot = array[(low + high) / 2];
 
     // find smaller elements than pivot
     // and find greater elements than pivot
@@ -54,12 +54,12 @@ void quickSort(int array[], int low, int high)
 
     while (smaller_elements < greater_elements)
     {
-        while (array[smaller_elements] < array[pivot])
+        while (array[smaller_elements] < pivot)
         {
             smaller_elements += 1;
         }
 
-        while (array[pivot] < array[greater_elements])
+        while (pivot < array[greater_elements])
         {
             greater_elements -= 1;
         }
