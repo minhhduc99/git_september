@@ -18,4 +18,4 @@
 - git push
 - git pull
 - .gitignore
-////Personal access token: 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 ////
+////Personal access token: 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 ////
