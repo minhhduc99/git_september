@@ -19,4 +19,4 @@
 - git pull (in case of more than one branch using: git pull <remote> <branch_name>)
 - .gitignore
 - git clone [url repo]
-- To save username/password, using: "git config --global credential.helper store", then "git pull/push" to enter username/pass to store
+- To save username/password, using: "git config --global credential.helper store", then "git push" to enter username/pass to store
