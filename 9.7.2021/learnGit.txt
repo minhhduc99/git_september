@@ -18,4 +18,5 @@
 - git push
 - git pull
 - .gitignore
-////Personal access token:  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 ////
+////Personal access token:  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 ////
+- git clone [url repo]
