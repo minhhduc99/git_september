@@ -1,18 +1,15 @@
-- git config 
+- git config --global user.name "name" / git config --global user.email "email"
 - git init (to create git repository local)
-- git status
-- staging area
-- git add 
-- git commit
-- git log
-- source control
+- git status / git log
+- git add "file"(.)
+- git commit -m "message"
 - create git repository on server (github)
 - connect git repo local and git repo on server
 +) git remote add origin <repo server link>
 +) git branch -M <name branch>
 +) git push -u origin <name branch>
 - git branch
-- git checkout
+- git checkout <branch_name>
 - git merge
 - git checkout [hash]
 - git push (in case of more than one branch using: git push <remote> <branch_name>)
