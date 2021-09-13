@@ -1,8 +1,15 @@
 // update file
+<<<<<<< HEAD
 // third update
+<<<<<<< HEAD:9.6.2021/mergeSort.c
 // new update
 // new update 2
 // last update 2
+=======
+=======
+// second update
+>>>>>>> Second update
+>>>>>>> test2:mergeSort.c
 #include <stdio.h>
 #include <stdlib.h>
 
