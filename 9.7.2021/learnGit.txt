@@ -15,8 +15,8 @@
 - git checkout
 - git merge
 - git checkout [hash]
-- git push
-- git pull
+- git push (in case of more than one branch using: git push <remote> <branch_name>)
+- git pull (in case of more than one branch using: git pull <remote> <branch_name>)
 - .gitignore
-////Personal access token:  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 ////
 - git clone [url repo]
+- To save username/password, using: "git config --global credential.helper store", then "git pull/push" to enter username/pass to store
